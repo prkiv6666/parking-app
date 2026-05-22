@@ -31,7 +31,13 @@ yarn-error.*
 *.pem
 
 # local env files
+.env
 .env*.local
+
+# local Supabase debug artifacts
+*-debug.txt
+delete-account-*.txt
+signup-*.json
 
 # typescript
 *.tsbuildinfo

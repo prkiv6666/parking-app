@@ -1,0 +1,7 @@
+{
+  "lint": true,
+  "fmt": {
+    "semiColons": false,
+    "singleQuote": true
+  }
+}
